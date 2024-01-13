@@ -1,2 +1,2 @@
 # NLP
-# Assignments of CS224N by Stanford. 
+Trying to learn NLP. 
